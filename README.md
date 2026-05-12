@@ -22,26 +22,9 @@ A complete invoicing workflow inside Obsidian for freelancers and small business
 A generated invoice has roughly this structure:
 
 ```
-                                          Invoice No. 2026001
-─────────────────────────────────────────────────────────────
-SUPPLIER                          BILL TO
-Your Name                         Acme Corp
-Street 123                        123 Buyer Ave
-City, ZIP                         City, ZIP
-Country                           Country
-Reg. No.: 12345678                Reg. No.: 87654321
-─────────────────────────────────────────────────────────────
-Variable symbol   1234567890   │ Issue date  10.5.2026 │ ┌──────┐
-Payment method    Bank transfer │ Due date   24.5.2026  │ │ QR   │
-IBAN              XX00...        │                      │ │ code │
-BIC               BANKCODE       │                      │ └──────┘
-                                                          Scan to pay
-─────────────────────────────────────────────────────────────
-Item description             Qty   Unit price (EUR)   Total (EUR)
-Consulting services           10            150.00       1,500.00
-Documentation deliverable      1            500.00         500.00
-Setup & onboarding fee         1            250.00         250.00
-                                            TOTAL       2,250.00 EUR
+## Preview
+
+![Generated invoice](invoice-preview.png)
 ```
 
 ## Requirements
