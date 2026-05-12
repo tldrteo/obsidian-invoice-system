@@ -20,8 +20,6 @@ A complete invoicing workflow inside Obsidian for freelancers and small business
 ## Preview
 
 A generated invoice has roughly this structure:
-
-## Preview
    
    ![Generated invoice](invoice-preview.png)
 
