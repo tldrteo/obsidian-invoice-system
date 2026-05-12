@@ -1,0 +1,22 @@
+# Obsidian workspace state (user-specific, shouldn't be committed)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor scratch
+*.swp
+*.swo
+*~
+
+# Private invoices — anyone forking this shouldn't commit their real billing data
+Invoices/
+**/Invoices/*
+!**/Invoices/.gitkeep
